@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Biometric PIN</string>
+    <string name="numpad_CLR">CLEAR</string>
+    <string name="numpad_DONE">DONE</string>
+</resources>
